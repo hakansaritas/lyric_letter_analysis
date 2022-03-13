@@ -117,11 +117,6 @@ def lyric_letter():
 lyric_letter()
 
 
-#pip install lyrics-extractor
-
-#Your_API_KEY = AIzaSyAS1PZXpsPeuhYZA5gsNMyLct0g_nWnWZQ
-#GCS_ENGINE_ID = 1cd7497b11168bb63
-###############################################################
 
 
 
