@@ -8,10 +8,12 @@ I have written this function to improve myself,give useful ideas to python users
 
 for much more information how to use this function, visit my Medium page
 
-I would want to dedicate this my first public function to "Ronnie James DIO" and "Rainbow"...
+I would want to dedicate this my first public function to "Ronnie James DIO" and "Rainbow"
 which are the one the best rock vocals and music band in the universe.
+
 I am opening to suggestions and corrections
 Thanks
+
 ======================================================================
 Hakan SARITAŞ
 linledin : www.linkedin.com/in/hakansaritas
