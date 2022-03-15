@@ -1,4 +1,4 @@
-# ##########   NUMBER OF THE LETTERS IN THE LYRIC ! ####################
+NUMBER OF THE LETTERS IN THE LYRIC ! 
 
 This work is about calculation of frequency of the unique letters in a lyric 
 using basic python commands. It would be a first step for future project which
@@ -13,7 +13,7 @@ which are the one the best rock vocals and music band in the universe.
 
 I am opening to suggestions and corrections
 Thanks
-# ======================================================================
+======================================================================
 Hakan SARITAŞ
 linledin : www.linkedin.com/in/hakansaritas
 Mediuum: https://hakansaritas.medium.com/
