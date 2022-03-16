@@ -30,7 +30,7 @@
 import matplotlib.pyplot as plt
 from lyricsgenius import Genius
 
-api_key = "CPZ6u-zmCHAckkq_AvhlQPTdVQwM01UF44JIKOJiwT4TlrAngggD_HXpmY3tk9XZ"
+api_key = "copy and paste your API CLIENT TOKEN KEY"
 
 
 def lyric_letter():
