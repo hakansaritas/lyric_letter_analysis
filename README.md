@@ -14,7 +14,6 @@ which are the one the best rock vocals and music band in the universe.
 I am opening to suggestions and corrections
 Thanks
 
-======================================================================
 Hakan SARITAŞ
 linledin : www.linkedin.com/in/hakansaritas
 Mediuum: https://hakansaritas.medium.com/
