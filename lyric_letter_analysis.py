@@ -168,9 +168,13 @@ def lyric_letter():
     return song_title, song_artist, song_before, song_after, zipped_letter, zipped_number
 
 ###############################################################
-## to run lyric_letter function uncomment below command
+### to run lyric_letter function uncomment below command
 
 # lyric_letter()
 
-# to get variables
+### to get variables
 # song_title, song_artist, song_before, song_after = lyric_letter()
+
+### if you dont want to get automatic print out on the screen
+
+# song = lyric_letter()
