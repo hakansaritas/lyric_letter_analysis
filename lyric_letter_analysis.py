@@ -35,7 +35,7 @@
 # Contact Detailed:
 # ======================================================================
 # Hakan SARITAŞ
-# linledin : www.linkedin.com/in/hakansaritas
+# linkedin : www.linkedin.com/in/hakansaritas
 # Mediuum: https://hakansaritas.medium.com/
 # GitHub: https://github.com/hakansaritas
 # kaggle: https://www.kaggle.com/hakansaritas
