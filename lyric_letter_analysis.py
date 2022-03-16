@@ -5,6 +5,7 @@
 # using basic python commands. It would be a first step for future project which
 # analyses the rock'n'roll lyric letters (mainly 80's) by creating database.
 
+
 # important: lyric input should be written as English Language.
 
 # I have written this function to improve myself,give useful
@@ -17,6 +18,21 @@
 
 # I am opening to suggestions and corrections
 # Thanks
+# ######################################################################
+# ############# HOW TO EXECUTE ! ############
+### to run lyric_letter function uncomment below command
+
+# lyric_letter()
+
+### to get variables
+# song_before, zipped_leter, total_song_values, total_song_keys = lyric_letter()
+
+### if you dont want to get automatic print out on the screen
+
+# song = lyric_letter()
+# ######################################################################
+
+# Contact Detailed:
 # ======================================================================
 # Hakan SARITAŞ
 # linledin : www.linkedin.com/in/hakansaritas
@@ -24,13 +40,13 @@
 # GitHub: https://github.com/hakansaritas
 # kaggle: https://www.kaggle.com/hakansaritas
 # ======================================================================
-# ######################################################################
+
 # pip install lyricsgenius
 
 import matplotlib.pyplot as plt
 from lyricsgenius import Genius
 
-api_key = "copy and paste your API CLIENT TOKEN KEY"
+api_key = " copy and paste your API CLIENT ACCESS TOKEN KEY"
 
 
 def lyric_letter():
@@ -165,14 +181,4 @@ def lyric_letter():
 
     return song_before, zipped_letter, sum(song_values), len(song_keys)
 
-###############################################################
-### to run lyric_letter function uncomment below command
 
-# lyric_letter()
-
-### to get variables
-# song_before, zipped_leter, total_song_values, total_song_keys = lyric_letter()
-
-### if you dont want to get automatic print out on the screen
-
-# song = lyric_letter()
