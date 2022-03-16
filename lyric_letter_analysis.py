@@ -30,7 +30,7 @@
 import matplotlib.pyplot as plt
 from lyricsgenius import Genius
 
-api_key = "copy and paste your API CLIENT TOKEN KEY"
+api_key = "CPZ6u-zmCHAckkq_AvhlQPTdVQwM01UF44JIKOJiwT4TlrAngggD_HXpmY3tk9XZ"
 
 
 def lyric_letter():
@@ -171,7 +171,7 @@ def lyric_letter():
 # lyric_letter()
 
 ### to get variables
-# song_title, song_artist, song_before, song_after = lyric_letter()
+# song_before, zipped_leter, total_song_values, total_song_keys = lyric_letter()
 
 ### if you dont want to get automatic print out on the screen
 
