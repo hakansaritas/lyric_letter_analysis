@@ -41,12 +41,10 @@ def lyric_letter():
         None. After run the function it will ask you to type song and artist name
 
     Returns:
-        song_title: title of the song, string
-        song_artist: artist of the song, string
         song_before: raw song output with its title,  string
-        song_after: only lyric without its title, string
         zipped_letter: letter:count pairs, list
-        zipped_number: count:letter pairs, list
+        sum(song_values): The total number of all letters, int
+        len(song_keys): The total number of different letters, int
 
 
     """
@@ -165,7 +163,7 @@ def lyric_letter():
     #    print(10*"*"+ str(song_before.split("\n", 1)[0]) + 10*"*")
     #    print(song_after)
 
-    return song_title, song_artist, song_before, song_after, zipped_letter, zipped_number
+    return song_before, zipped_letter, sum(song_values), len(song_keys)
 
 ###############################################################
 ### to run lyric_letter function uncomment below command
